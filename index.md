@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Yegan Dhaivakumar's first CS 193 Homework
+
+- Class is not too hard 
+- Information that can be useful throughout my career 
+- Have both lec and pso to get all the questions answered and work
+- No Exams 
+- Some of this knowledge can be used in other CS classes 
+
+
+
+****************************************************************************************************************************
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
